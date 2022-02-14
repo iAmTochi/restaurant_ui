@@ -1,5 +1,5 @@
 import 'package:restaurant_ui/models/food.dart';
-import 'package:restaurant_ui/models/restuarant.dart';
+import 'package:restaurant_ui/models/restaurant.dart';
 
 class Order {
   Restaurant restaurant;
